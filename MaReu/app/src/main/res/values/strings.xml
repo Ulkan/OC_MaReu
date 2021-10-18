@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ma Réu</string>
+    <string name="FBDate">Filtrer par date</string>
+    <string name="FByRoom">Filtrer par salle</string>
+    <string name="RemoveFilter">Retirer filtres</string>
+    <string name="add_meeting_desc">Add meeting icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
