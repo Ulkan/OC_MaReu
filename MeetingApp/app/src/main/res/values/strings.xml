@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ma Réu</string>
+    <string name="FBDate">Filter by date</string>
+    <string name="FByRoom">Filter by room</string>
+    <string name="RemoveFilter">Remove filter</string>
+    <string name="add_meeting_desc">Add meeting icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meeting_subject">Sujet</string>
+    <string name="meeting_date">Date</string>
+    <string name="meeting_room">Room</string>
+    <string name="meeting_participants">Participants</string>
+    <string name="AddMeeting">Add meeting</string>
+    <string name="EditMeeting">Edit meeting</string>
+    <string name="not_valid_mail_adress">Not a valid mail address</string>
+    <string name="invalid_subject">Subject isn\'t valid</string>
+    <string name="date_passed">Date already pasted</string>
+    <string name="wrong_date_format">Wrong date format</string>
+    <string name="no_room_select">Room not selected</string>
+    <string name="participant_number_error">Not enough participants entered</string>
+    <string name="nonexistant_room">Room not in list</string>
+</resources>
